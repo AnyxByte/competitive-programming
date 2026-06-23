@@ -22,7 +22,9 @@ void solve()
         count++;
         if(sumCoin <= (sum - coins[i])){
             sum = sum - coins[i];
-        }else break;
+        }else{
+            break;
+        }
     }
 
     cout << count ;
