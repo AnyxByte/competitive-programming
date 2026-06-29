@@ -7,12 +7,12 @@ Reach Codeforces rating **1400** from **741** in 6 months.
 
 ## 📊 Current Stats
 - **Platform:** Codeforces
-- **Current Rating:** 800
+- **Current Rating:** 844
 - **Target Rating:** 1400
 - **Daily Target:** 2-3 problems
 
 Rating Update:-
-741 -> 800(currently)
+741 -> 800 -> 844 (currently)
 
 ## 📁 Structure
 Each folder contains solutions organized by rating and topic.
